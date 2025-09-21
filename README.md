@@ -16,9 +16,10 @@ Salaries.xls
 Codes.xls
 Benefits.xlsx
 Salaries_old.xls
-    │
-    └─> Merge + column reordering + derived columns
-              └─> Salaries_Final.xlsx
+│
+└── Merge + column reordering + derived columns
+│
+└── Salaries_Final.xlsx
 
 ## Key Features
 
