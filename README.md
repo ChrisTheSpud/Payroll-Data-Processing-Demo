@@ -12,14 +12,19 @@ This repo contains no real data. All file paths and column names are sanitized a
 
 ## Data flow
 
-Salaries.xls
-Codes.xls
-Benefits.xlsx
-Salaries_old.xls
-│
-└── Merge + column reordering + derived columns
-│
-└── Salaries_Final.xlsx
+1. Input files:
+- Salaries.xls
+- Codes.xls
+- Benefits.xlsx
+- Salaries_old.xls
+
+2. Processing steps:
+- Merge data
+- Reorder columns
+- Compute derived columns
+
+3. Output
+- Salaries_Final.xlsx
 
 ## Key Features
 
