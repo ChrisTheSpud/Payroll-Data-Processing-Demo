@@ -13,10 +13,10 @@ This repo contains no real data. All file paths and column names are sanitized a
 ## Data flow
 
 1. Input files:
-- Salaries.xls
-- Codes.xls
-- Benefits.xlsx
-- Salaries_old.xls
+- `Salaries.xls`
+- `Codes.xls`
+- `Benefits.xlsx`
+- `Salaries_old.xls`
 
 2. Processing steps:
 - Merge data
@@ -24,7 +24,7 @@ This repo contains no real data. All file paths and column names are sanitized a
 - Compute derived columns
 
 3. Output
-- Salaries_Final.xlsx
+- `Salaries_Final.xlsx`
 
 ## Key Features
 
